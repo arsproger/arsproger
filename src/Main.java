@@ -3,6 +3,6 @@ public class Main {
         Auto auto = new Auto();
         auto.setName("BMW");
         System.out.println(auto.getName());
-        System.out.println();
+        System.out.println("Это новая ветка с моим именем");
     }
 }
